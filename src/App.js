@@ -6,7 +6,7 @@ import Animal from './Classes.jsx'
 function App() {
   return (
     <>
-    <Animal cat='cat' dog='dog' fish='fish'/>
+    {/* <Animal cat='cat' dog='dog' fish='fish'/> */}
     </>
   );
 }
